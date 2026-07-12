@@ -1,5 +1,3 @@
-# README.md
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0f0c29,50:302b63,100:24243e&text=Rasmus%20Strunge&fontColor=ffffff&fontSize=55&fontAlignY=38&desc=Full%20Stack%20Engineer%20•%20AI%20Focused%20Developer%20•%20Enterprise%20Systems&descAlignY=55&animation=fadeIn" width="100%"/>
 </p>
