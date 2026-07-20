@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0f0c29,50:302b63,100:24243e&text=Rasmus%20Strunge&fontColor=ffffff&fontSize=55&fontAlignY=38&desc=Full%20Stack%20Engineer%20•%20AI%20Focused%20Developer%20•%20Enterprise%20Systems&descAlignY=55&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0f0c29,50:302b63,100:24243e&text=Rasmus%20Strunge&fontColor=ffffff&fontSize=55&fontAlignY=38&desc=Full%20Stack%20Developer%20•%20AI%20Focused%20•%20Enterprise%20Systems&descAlignY=55&animation=fadeIn" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=900&lines=Software+Engineer;Full-Stack+Developer;AI+Engineering+Enthusiast;.NET+%7C+Vue+%7C+Cloud+%7C+Product+Engineering" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=900&lines=Software+Engineer;Software+Developer;AI+Enthusiast;.NET+%7C+Vue+%7C+React+%7C+DevOps" />
 </p>
 
 <p align="center">
@@ -24,7 +24,7 @@
 
 ## About
 
-Software Engineer specializing in enterprise-grade full-stack development, cloud-native applications, scalable APIs, modern frontend architectures, and AI-enhanced product engineering.
+Software Developer specializing in full-stack development, cloud-native applications, scalable APIs, modern frontend architectures, and AI-enhanced engineering.
 
 Currently building solutions using .NET, Vue.js, TypeScript, SQL, Azure DevOps, and modern software engineering practices. Experienced across the full software lifecycle from requirements analysis to deployment and continuous improvement.
 
@@ -85,23 +85,20 @@ Currently building solutions using .NET, Vue.js, TypeScript, SQL, Azure DevOps, 
 ```yaml
 learning:
   - AI Engineering
-  - Cloud Architecture
   - Distributed Systems
 
 building:
-  - Enterprise Web Components
-  - AI Assistant Platforms
-  - Full Stack Products
+  - Enterprise Design System
+  - AI Assistant Platform
 
 exploring:
   - Agentic AI
   - RAG Architectures
-  - MLOps
 
 open_to:
   - Engineering Opportunities
   - Open Source
-  - Technical Collaboration
+  - Collaboration
 ```
 
 ---
