@@ -34,13 +34,13 @@ Visit <a href="https://portfolio.spiegelforge.dk">portfolio.spiegelforge</a> to 
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=cs,dotnet,js,ts,python,html,css" />
+<img src="https://skillicons.dev/icons?i=cs,js,ts,python,html,css" />
 </p>
 
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=vue,react,vite,tailwind" />
+<img src="https://skillicons.dev/icons?i=vue,vite,react,tailwind,sass" />
 </p>
 
 ### Backend & Databases
@@ -49,10 +49,16 @@ Visit <a href="https://portfolio.spiegelforge.dk">portfolio.spiegelforge</a> to 
 <img src="https://skillicons.dev/icons?i=dotnet,nodejs,mysql" />
 </p>
 
-### Cloud DevOps & Tooling
+### Cloud DevOps & Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=azure,docker,git,github,githubactions,visualstudio,vscode" />
+<img src="https://skillicons.dev/icons?i=azure,docker,git,github,githubactions" />
+</p>
+
+### IDEs
+
+<p>
+<img src="https://skillicons.dev/icons?i=visualstudio,vscode" />
 </p>
 
 
