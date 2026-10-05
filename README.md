@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0f0c29,50:302b63,100:24243e&text=Rasmus%20Strunge&fontColor=ffffff&fontSize=55&fontAlignY=38&desc=Full%20Stack%20Developer%20•%20AI%20Focused%20•%20Enterprise%20Systems&descAlignY=55&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0f0c29,50:302b63,100:24243e&text=Rasmus%20Strunge&fontColor=ffffff&fontSize=55&fontAlignY=38&desc=Fullstack%20Developer%20&descAlignY=55&animation=fadeIn" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=900&lines=Software+Engineer;Software+Developer;AI+Enthusiast;.NET+%7C+Vue+%7C+React+%7C+DevOps" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=900&lines=Software+Developer;AI+Enthusiast;.NET+%7C+Vue+%7C+React" />
 </p>
 
 <p align="center">
@@ -20,15 +20,14 @@
 <img src="https://img.shields.io/github/stars/Spiegelmann?affiliations=OWNER&style=for-the-badge&color=A855F7"/>
 </p>
 
----
-
 ## About
 
 Software Developer specializing in full-stack development, cloud-native applications, scalable APIs, modern frontend architectures, and AI-enhanced engineering.
 
 Currently building solutions using .NET, Vue.js, TypeScript, SQL, Azure DevOps, and modern software engineering practices. Experienced across the full software lifecycle from requirements analysis to deployment and continuous improvement.
 
----
+Visit <a href="https://portfolio.spiegelforge.dk">portfolio.spiegelforge</a> to learn more about me.
+
 
 ## Tech Stack
 
@@ -56,21 +55,6 @@ Currently building solutions using .NET, Vue.js, TypeScript, SQL, Azure DevOps, 
 <img src="https://skillicons.dev/icons?i=azure,docker,git,github,githubactions,visualstudio,vscode" />
 </p>
 
----
-
-## GitHub Analytics
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Spiegelmann&theme=tokyonight"/>
-</p>
-
-## Contribution Activity
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Spiegelmann&theme=tokyo-night"/>
-</p>
-
----
 
 ## Current Focus
 
@@ -80,17 +64,18 @@ learning:
   - Distributed Systems
 
 building:
-  - Enterprise Design System
+  - AI Game Studio Workstation
   - AI Assistant Platform
+  - Design System
 
 exploring:
   - Agentic AI
   - RAG Architectures
 
 open_to:
-  - Engineering Opportunities
-  - Open Source
-  - Collaboration
+  - Frontend positions
+  - Backend positions
+  - Fullstack positions
 ```
 
 ---
@@ -102,10 +87,6 @@ open_to:
 <a href="https://linkedin.com/in/rasmus-strunge">LinkedIn</a> •
 <a href="https://github.com/Spiegelmann">GitHub</a>
 </p>
-
----
-
-> Engineering scalable products where software craftsmanship, AI, and business impact meet.
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:0f0c29,50:302b63,100:24243e"/>
